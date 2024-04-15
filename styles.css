@@ -10,7 +10,7 @@ html {
 
 
 body {
- 
+
   color: blanchedalmond;
   font-size: 16px;
   font-weight: 400;
@@ -20,7 +20,7 @@ body {
   background: url(img/top_image.svg) top right no-repeat,
     url(img/stars.svg) 677px 198px no-repeat,
     url(img/path.svg) 31px 103px no-repeat,
-   /*  url(img/footer_background.jpg) bottom left no-repeat,  */
+    /*  url(img/footer_background.jpg) bottom left no-repeat,  */
     url(img/graininess.svg),
     #0B0E17;
 }
@@ -61,6 +61,7 @@ ul {
   margin-right: 740px;
   padding-right: 35px;
 }
+
 .sign_in {
   border: 1px;
   border-color: rgba(255, 235, 205, 0.74);
@@ -108,7 +109,7 @@ h1 {
 
 .top_link {
   max-width: 189px;
-  margin:30px 0 0;
+  margin: 30px 0 0;
 }
 
 .top {
@@ -140,6 +141,7 @@ h1 {
   margin: 0;
   user-select: none;
 }
+
 .background {
   margin: 135px 0;
 }
@@ -343,7 +345,7 @@ footer {
   padding-top: 50px;
   width: 100%;
   min-height: 350px;
-  background-color: #2a375e23;
+  background-color: #242b3d17;
   position: absolute;
   left: 0;
 }
